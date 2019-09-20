@@ -1,0 +1,12 @@
+.profile-header h2 {
+  padding: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+button {
+  text-decoration: none;
+  margin: 20px auto;
+  padding: 20px;
+  display: block;
+}
